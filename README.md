@@ -1,4 +1,4 @@
-# Antimicrobial Targeting of Bacterial Membrane Microdomains
+# Designing AI-Generated Antimicrobials for Targeting Bacterial Microdomains
 
 ## Overview
 This repository hosts the supplementary materials for our study on the selective binding of antimicrobial agents to bacterial membranes with distinct mechanical properties. Our work investigates how cardiolipin-rich microdomains—characterized by unique rigidity and altered lipid packing—affect antimicrobial binding and translocation energies, thus informing the rational design of targeted antimicrobial compounds.
@@ -18,3 +18,9 @@ This repository hosts the supplementary materials for our study on the selective
   
 - **Molecular Descriptors**  
   A collection of molecules with comprehensive descriptor annotations
+  
+  
+## Reference
+  
+ Adam Gruda, Mateusz Rzycki, *Designing AI-Generated Antimicrobials for Targeting Bacterial Microdomains*, ICCS 2025
+

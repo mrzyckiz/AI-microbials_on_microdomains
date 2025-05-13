@@ -22,5 +22,5 @@ This repository hosts the supplementary materials for our study on the selective
   
 ## Reference
   
- Adam Gruda, Mateusz Rzycki, *Designing AI-Generated Antimicrobials for Targeting Bacterial Microdomains*, ICCS 2025
+ Adam Gruda, Mateusz Rzycki, *Designing AI-Generated Antimicrobials for Targeting Bacterial Microdomains*, 2025
 
